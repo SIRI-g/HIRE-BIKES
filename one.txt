@@ -1,6 +1,15 @@
 ohm namo vigneswarayanamaha
 ohm namo bagavathey vasudevaya namaha
-git is a papular source code management tool
+git is a papular source code management tool 
 git is a open source tool
+git is lightweight tool.
+git is a open source tool
+<<<<<<< HEAD
+<<<<<<< HEAD
 git is lightweight tool
-git is a open source tool
+parent of ac64d0d... reset practice
+
+=======
+>>>>>>> parent of d0fecd7... Update one.txt
+=======
+>>>>>>> parent of d0fecd7... Update one.txt
