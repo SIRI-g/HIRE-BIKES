@@ -4,6 +4,9 @@ git is a papular source code management tool
 git is a open source tool
 git is lightweight tool.
 git is a open source tool
+<<<<<<< HEAD
 git is lightweight tool
 parent of ac64d0d... reset practice
 
+=======
+>>>>>>> parent of d0fecd7... Update one.txt
